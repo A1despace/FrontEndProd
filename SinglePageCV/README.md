@@ -1,4 +1,4 @@
-# # CV
+## Single Page CV
 
 This is a simple single-page HTML CV 
 
@@ -29,3 +29,5 @@ This is a simple single-page HTML CV
 - 🌐 LinkedIn: [Profile](https://www.linkedin.com/in/jayle-javerick-talplacido-588340289/)  
 - 💻 GitHub: [A1despace](https://github.com/A1despace)
 
+## Picture 
+![alt text](image.png)
