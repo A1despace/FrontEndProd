@@ -2,10 +2,6 @@
 
 This is a simple single-page HTML CV 
 
-## Project URL
-
-https://roadmap.sh/projects/single-page-cv
-
 ## Features
 
 - Clean and responsive layout
